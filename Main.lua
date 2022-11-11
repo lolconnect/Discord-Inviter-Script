@@ -2,7 +2,7 @@ local Inviter = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 
 -- Creates an interactable prompt
 Inviter.Prompt({
-    name = "Test bozo",
+    name = "your name",
     invite = "your invite",
 })
 
